@@ -35,6 +35,4 @@ By leveraging data-driven insights, the project seeks to support smarter decisio
 - **Well Classification Accuracy**: 85%+ in identifying high vs. low producers
 - **Anomaly Detection**: Successfully identified 10% of production days as anomalous
 - **Production Forecasting**: R² scores of 0.75-0.85 for weekly predictions
-- **Feature Importance**: Water cut and efficiency identified as top predictors
-
-## 📁 Repository Structure
+- **Feature Importance**: Water cut and efficiency identified as top predictor.
