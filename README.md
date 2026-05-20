@@ -29,8 +29,11 @@ This project aims to apply machine learning and data analytics techniques to his
 The main objectives are to:
 
 	1.	Classify wells based on production performance
+	
 	2.	Predict future oil and gas production trends
+	
 	3.	Detect anomalies in production operations
+	
 	4.	Analyze production decline patterns and key influencing factors
 
 By leveraging data-driven insights, the project seeks to support smarter decision-making, optimize production efficiency, and reduce operational risks in oil and gas field management.
